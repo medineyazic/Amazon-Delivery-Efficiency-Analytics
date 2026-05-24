@@ -20,3 +20,15 @@ This project analyzes Amazon delivery operations to identify the key factors aff
 ## Model Performance Comparison
 
 ![Model Performance Comparison](model-performance-comparison.png)
+
+## Key Findings
+
+- Traffic density and weather conditions were among the strongest predictors of delivery delays.
+- XGBoost achieved the best predictive performance with an R² score of 0.919.
+- Delivery area and courier-related factors significantly affected operational efficiency.
+- The analysis demonstrated how machine learning can support logistics optimization and customer satisfaction improvement.
+
+## Business Impact
+
+The findings of this project can support logistics companies in improving operational planning, reducing delivery delays, and enhancing customer satisfaction through data-driven decision making.
+
