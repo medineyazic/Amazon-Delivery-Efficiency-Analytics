@@ -11,6 +11,7 @@ This project analyzes Amazon delivery operations to identify the key factors aff
 
 ## Technologies Used
 - Python
+- R 
 - Pandas
 - XGBoost
 - Machine Learning
