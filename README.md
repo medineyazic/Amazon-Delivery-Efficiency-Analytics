@@ -8,3 +8,10 @@ This project analyzes Amazon delivery operations to identify the key factors aff
 - Analyze operational and environmental impacts on delivery performance
 - Compare machine learning models
 - Generate business insights for logistics optimization
+
+## Technologies Used
+- Python
+- Pandas
+- XGBoost
+- Machine Learning
+- Data Visualization
