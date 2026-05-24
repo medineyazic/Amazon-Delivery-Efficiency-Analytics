@@ -16,3 +16,7 @@ This project analyzes Amazon delivery operations to identify the key factors aff
 - XGBoost
 - Machine Learning
 - Data Visualization
+
+## Model Performance Comparison
+
+![Model Performance Comparison](model-performance-comparison.png)
